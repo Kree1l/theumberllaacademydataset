@@ -8,3 +8,4 @@ Data taken from https://www.imdb.com/title/tt1312171/episodes/?ref_=tt_ov_ep_epl
 6. Total votes shows the number of people who voted
 7. Average rating shows the average score of the series
 8. Runtime shows the duration of the series in minutes
+9. Directed by represent people who was or were director/directors of the episode
