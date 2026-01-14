@@ -1,4 +1,5 @@
 # theumberllaacademydataset
+Data taken from https://www.imdb.com/title/tt1312171/episodes/?ref_=tt_ov_ep_epl
 1. Trend represents the amount of new votes submitted during the past 7 days
 2. Seasons shows the number of the season of this episode 
 3. Episode presents the number of this episode 
